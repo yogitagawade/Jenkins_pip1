@@ -1,2 +1,1 @@
-name = "Yogita"
-print(name)
+print("Hello")
